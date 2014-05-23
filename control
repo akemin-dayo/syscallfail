@@ -1,0 +1,13 @@
+Package: net.angelxwind.syscallfail
+Name: syscallfail
+Version: 1.1.1
+Description: Proof of concept of a security vulnerability that exists in evasi0n7 1.0.3 and below.
+Section: Utilities
+Depends: firmware (>= 7.0)
+Conflicts: 
+Replaces: 
+Architecture: iphoneos-arm
+Author: Karen／明美 (angelXwind) <angelXwind@angelxwind.net>
+Homepage: https://cydia.angelxwind.net/
+Depiction: https://cydia.angelxwind.net/?page/net.angelxwind.syscallfail
+Maintainer: Karen／明美 (angelXwind) <angelXwind@angelxwind.net>
