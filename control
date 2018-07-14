@@ -7,7 +7,7 @@ Depends: firmware (>= 7.0)
 Conflicts: 
 Replaces: 
 Architecture: iphoneos-arm
-Author: Karen／明美 (angelXwind) <karen@angelxwind.net>
+Author: Karen/あけみ (angelXwind) <karen@angelxwind.net>
 Homepage: https://cydia.angelxwind.net/
 Depiction: https://cydia.angelxwind.net/?page/net.angelxwind.syscallfail
-Maintainer: Karen／明美 (angelXwind) <karen@angelxwind.net>
+Maintainer: Karen/あけみ (angelXwind) <karen@angelxwind.net>
